@@ -14,7 +14,7 @@ INFINITY = Decimal('1e18')
 NAME = 'LeskoChessEngine 0.1'
 AUTHOR = 'Lesko Vladislav'
 
-DEFAULT_DEPTH = 3
+DEFAULT_DEPTH = 2 # full moves (1 move = 2 plies)
 
 
 class RootMoveNode:
@@ -499,7 +499,7 @@ class Analyzer:
 
         else:
             self._best_move = choice(available_moves)
-            self._chosee_best_move(position, available_moves, depth)
+            self._chosee_best_move(position, available_moves, depth * 2)
 
     def stop(self):
         self._ready = True
