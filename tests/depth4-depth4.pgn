@@ -1,0 +1,29 @@
+[Event "?"]
+[Site "?"]
+[Date "2018.03.17"]
+[Round "?"]
+[White "Lesko"]
+[Black "Lesko"]
+[Result "1/2-1/2"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[PlyCount "81"]
+[TimeControl "inf"]
+
+1. e3 {1367s} e6 {2822s} 2. Qh5 {7148s} Qf6 {10733s} 3. f4 {19724s} Qf5 {9109s}
+4. Qxf5 {9696s} exf5 {4499s} 5. Bd3 {1384s} Be7 {1515s} 6. Bxf5 {1849s}
+Nh6 {2180s} 7. Bh3 {2768s} f5 {2556s} 8. Nf3 {2653s} d5 {3559s} 9. Nc3 {4586s}
+Be6 {5963s} 10. Nb5 {7902s} Na6 {6403s} 11. Nbd4 {4534s} Bd7 {3716s}
+12. Ne5 {4338s} c5 {4084s} 13. Ndf3 {3402s} Be6 {2482s} 14. Ng5 {2745s}
+Nc7 {2251s} 15. Ke2 {2954s} c4 {2884s} 16. g3 {3889s} a5 {6780s} 17. Bg2 {8734s}
+Bd7 {9470s} 18. Bf3 {14360s} g6 {10279s} 19. Nxd7 {6827s} Kxd7 {3593s}
+20. Nh3 {4740s} Nf7 {3401s} 21. g4 {4802s} fxg4 {3454s} 22. Bxg4+ {3647s}
+Ke8 {336s} 23. Nf2 {1905s} Bh4 {2410s} 24. Nd1 {2015s} h5 {2557s}
+25. Bh3 {2402s} g5 {2171s} 26. Bf5 {1813s} gxf4 {2267s} 27. exf4 {2782s}
+Nb5 {2507s} 28. Ke3 {3286s} Rg8 {4088s} 29. Be6 {4970s} Nc7 {4298s}
+30. Bxf7+ {4255s} Kxf7 {438s} 31. Kf3 {2545s} Ne6 {2981s} 32. c3 {3098s}
+Rg4 {1335s} 33. f5 {1282s} Rf4+ {1405s} 34. Ke2 {167s} Rxf5 {1014s}
+35. a4 {914s} Nf4+ {878s} 36. Ke3 {109s} Re8+ {575s} 37. Kf3 {84s} Nd3+ {674s}
+38. Kg2 {59s} Nf4+ {923s} 39. Kf3 {111s} Nd3+ {673s} 40. Kg2 {59s} Nf4+ {908s}
+41. Kf3 {110s, Draw by 3-fold repetition} 1/2-1/2
+
